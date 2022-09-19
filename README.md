@@ -1,2 +1,1 @@
-# webpage
- http://jakads.github.io
+http://jakads.github.io
