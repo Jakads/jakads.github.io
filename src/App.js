@@ -47,7 +47,7 @@ function App() {
     <div className="App">
       <TitleContainer>
         <Title>Jakads</Title>
-        <TitleLink color="#ff0000" href="http://youtube.com/c/wkzkeotmd" target="_blank">YouTube</TitleLink>
+        <TitleLink color="#ff0000" href="http://youtube.com/wkzkeotmd" target="_blank">YouTube</TitleLink>
         <TitleLink color="#1da1f2" href="http://twitter.com/Jakads" target="_blank">Twitter</TitleLink>
         <TitleLink color="#9146ff" href="http://twitch.tv/Jakads" target="_blank">Twitch</TitleLink>
       </TitleContainer>
